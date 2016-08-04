@@ -1,0 +1,30 @@
+_repo: The-Scotch-Twins_4086
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Perkins, Lucy Fitch
+    alias: Fitch, Lucy
+    birthdate: 1865
+    deathdate: 1937
+    gutenberg_agent_id: '1216'
+    url: http://www.gutenberg.org/2009/agents/1216
+    wikipedia: http://en.wikipedia.org/wiki/Lucy_Fitch_Perkins
+description: One in a series of stories that introduce a period of history and a geographical
+  location through the adventures of twins. Here, Scottish twins, Jock and Jean, discover
+  the gamekeeper is a poacher and help expose him.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4086'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Twins -- Juvenile fiction'
+- GITenberg
+title: The Scotch Twins
+url: http://www.gutenberg.org/ebooks/4086
