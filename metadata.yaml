@@ -1,5 +1,8 @@
 _repo: The-Scotch-Twins_4086
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Perkins, Lucy Fitch
@@ -12,6 +15,8 @@ creator:
 description: One in a series of stories that introduce a period of history and a geographical
   location through the adventures of twins. Here, Scottish twins, Jock and Jean, discover
   the gamekeeper is a poacher and help expose him.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4086#The-Scotch-Twins
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
